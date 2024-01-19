@@ -1,0 +1,7 @@
+The data available in this folder has four headers: 'car_model', 'year_of_manufacture', 'price', 'fuel'
+we are going to 
+~implement the exrtraction process for the csv,json and xml files
+~Transform the values under 'price' header such that they are rounded to 2 decimal places
+~Implement the loading function for the transformed data to a target file, transformed_data.csv
+~implement the logging function for each step and save it to log_file.txt
+~ finally, doing different test
